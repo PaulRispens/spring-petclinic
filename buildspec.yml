@@ -8,3 +8,4 @@ phases:
 artifacts:
   files:
     - target/spring-petclinic-1.5.1.jar
+    - spring-petclinic/src/test/jmeter/petclinic_test_plan.jmx
